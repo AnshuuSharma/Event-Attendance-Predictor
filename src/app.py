@@ -8,7 +8,7 @@
 
 # # ---------- Load trained pipeline ----------
 # BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-# MODEL_PATH = "attendance_predictor.pkl")
+# MODEL_PATH = "attendance_predictor.pkl"
 # pipeline = joblib.load(MODEL_PATH)
 
 # st.set_page_config(page_title="Event Attendance Predictor", layout="centered")
